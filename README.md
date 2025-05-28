@@ -1,5 +1,7 @@
 # Lab8-Starter
 Link to page: https://chana-battura.github.io/cse110lab8/
+
+
 Question: How are graceful degradation and service workers related? 
 
 
